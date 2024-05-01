@@ -1,0 +1,3 @@
+# ReadMe-SignLang-LearningApp-ttk-py
+# this is app made with python(tkinter) which helps normal people to learn sign language so as to be able to communicate with Deaf people
+in this i have used python to make application which uses tkinter to show designs and ecxel to store the progress and the data of the learning also it has cam access where you can pratice sign languages live...near future i am gonna add ML algos to felicitate live and interactive learning....
